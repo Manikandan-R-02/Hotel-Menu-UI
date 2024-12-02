@@ -1,0 +1,76 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    font-size: large;
+}
+body{
+    background-image: url(images/food\ bg2.jpg);
+    background-size: cover;
+}
+table {
+    width: 50%;
+    height: 500px;
+    margin: 150px auto 10px auto;
+    text-align: center;
+    border-radius: 10px;
+    border-color: white;
+    background: transparent;
+}
+table:hover{
+    cursor: pointer;
+}
+
+thead>#main{
+    background-color: #34495e;
+    color: white;
+}
+
+.title{
+    background: #f8f398;
+}
+
+.dosa{
+    background-color: #f1b963;
+}
+.dosa:hover{
+    background-color: rgb(29, 201, 58);
+    color: white;
+    padding: 100px;
+    border-color: black;
+}
+
+.Poori{
+    background-color:#f67280;
+}
+.Poori:hover{
+    background-color: rgb(29, 201, 58);
+    color: white;
+    padding: 100px;
+}
+
+.Pongal{
+    background-color: #c06c84;
+}
+.Pongal:hover{
+    background-color: rgb(29, 201, 58);
+    color: white;
+    padding: 100px;
+}
+
+.Vadaa{
+    background-color:#ffd3b6;
+}
+.Vadaa:hover{
+    background-color: rgb(29, 201, 58);
+    color: white;
+    padding: 100px;
+}
+
+.Chappathi{
+    background-color: #ffaaa5;
+}
+.Chappathi:hover{
+    background-color: rgb(29, 201, 58);
+    color: white;
+    padding: 100px;
+}
